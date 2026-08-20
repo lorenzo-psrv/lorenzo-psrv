@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-## Minhas redes profissionais:
--🏢 www.linkedin.com/in/lorenzo-vidal-b597ba42b
+# Minhas redes profissionais:
+-🏢 www.linkedin.com/in/lorenzo-vidal-b597ba42b\n
 -🖥️ https://dev.to/lorenzopsrv
 
 ## Artigos recentes:
