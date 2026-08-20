@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+## Minhas redes profissionais:
+-🏢 www.linkedin.com/in/lorenzo-vidal-b597ba42b
+-🖥️ https://dev.to/lorenzopsrv
+
+## Artigos recentes:
+
 <!--
 **lorenzo-psrv/lorenzo-psrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
